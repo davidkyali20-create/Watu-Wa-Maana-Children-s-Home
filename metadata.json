@@ -1,0 +1,6 @@
+{
+  "name": "Watu Wa Maana Children's Home",
+  "description": "Official website for Watu Wa Maana Children's Home in Kenya — providing holistic care, education, nutrition, healthcare, and youth empowerment for vulnerable children.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
